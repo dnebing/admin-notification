@@ -1,0 +1,5 @@
+Bundle-Name: Admin Login Notifications
+Bundle-SymbolicName: com.dnebinger.admin.notification.web
+Bundle-Version: 1.0.0
+
+Private-Package: com.dnebinger.admin.notification.portlet

@@ -1,0 +1,8 @@
+.gradle
+/build/
+*.class
+*.jar
+*.war
+*.ear
+*.DS_Store
+.idea/
